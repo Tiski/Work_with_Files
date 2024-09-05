@@ -1,0 +1,23 @@
+[
+    {
+        "file_name": "utf8_file_processed.txt",
+        "full_path": "/Users/timurmajerle/Downloads/Python_Rabota_Failami/project_root/data/processed/utf8_file_processed.txt",
+        "size": 42,
+        "creation_time": "2024-09-04T17:08:43.588755",
+        "last_modified": "2024-09-04T17:08:43.588755"
+    },
+    {
+        "file_name": "utf8_file_jp_processed.txt",
+        "full_path": "/Users/timurmajerle/Downloads/Python_Rabota_Failami/project_root/data/processed/utf8_file_jp_processed.txt",
+        "size": 27,
+        "creation_time": "2024-09-04T17:08:43.587703",
+        "last_modified": "2024-09-04T17:08:43.587703"
+    },
+    {
+        "file_name": "iso8859_file_processed.txt",
+        "full_path": "/Users/timurmajerle/Downloads/Python_Rabota_Failami/project_root/data/processed/iso8859_file_processed.txt",
+        "size": 33,
+        "creation_time": "2024-09-04T17:08:43.588409",
+        "last_modified": "2024-09-04T17:08:43.588409"
+    }
+]

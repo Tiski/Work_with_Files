@@ -1,0 +1,1 @@
+Texto en español con ISO-8859-1.

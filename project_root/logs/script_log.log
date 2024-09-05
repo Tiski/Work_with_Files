@@ -1,0 +1,112 @@
+2024-09-04 15:52:38,442 - INFO - Скрипт запущен.
+2024-09-04 15:52:38,442 - INFO - Создание директорий начато.
+2024-09-04 15:52:38,442 - INFO - Директория создана: /Users/timurmajerle/Downloads/Python_Rabota_Failami/project_root/data/raw
+2024-09-04 15:52:38,442 - INFO - Директория создана: /Users/timurmajerle/Downloads/Python_Rabota_Failami/project_root/data/processed
+2024-09-04 15:52:38,442 - INFO - Директория создана: /Users/timurmajerle/Downloads/Python_Rabota_Failami/project_root/logs
+2024-09-04 15:52:38,442 - INFO - Директория создана: /Users/timurmajerle/Downloads/Python_Rabota_Failami/project_root/backups
+2024-09-04 15:52:38,442 - INFO - Директория создана: /Users/timurmajerle/Downloads/Python_Rabota_Failami/project_root/output
+2024-09-04 15:52:38,442 - INFO - Создание директорий завершено.
+2024-09-04 15:54:34,384 - INFO - Скрипт запущен.
+2024-09-04 15:54:34,384 - INFO - Создание директорий начато.
+2024-09-04 15:54:34,384 - INFO - Директория создана: /Users/timurmajerle/Downloads/Python_Rabota_Failami/project_root/data/raw
+2024-09-04 15:54:34,384 - INFO - Директория создана: /Users/timurmajerle/Downloads/Python_Rabota_Failami/project_root/data/processed
+2024-09-04 15:54:34,384 - INFO - Директория создана: /Users/timurmajerle/Downloads/Python_Rabota_Failami/project_root/logs
+2024-09-04 15:54:34,384 - INFO - Директория создана: /Users/timurmajerle/Downloads/Python_Rabota_Failami/project_root/backups
+2024-09-04 15:54:34,384 - INFO - Директория создана: /Users/timurmajerle/Downloads/Python_Rabota_Failami/project_root/output
+2024-09-04 15:54:34,384 - INFO - Создание директорий завершено.
+2024-09-04 15:54:34,393 - INFO - Создание файлов с кодировками начато.
+2024-09-04 15:54:34,393 - INFO - Файл создан: utf8_file.txt с кодировкой utf-8
+2024-09-04 15:54:34,394 - INFO - Файл создан: iso8859_file.txt с кодировкой ISO-8859-1
+2024-09-04 15:54:34,394 - INFO - Файл создан: utf8_file_jp.txt с кодировкой utf-8
+2024-09-04 15:54:34,394 - INFO - Создание файлов с кодировками завершено.
+2024-09-04 16:24:07,172 - INFO - Скрипт запущен.
+2024-09-04 16:24:07,173 - INFO - Создание директорий начато.
+2024-09-04 16:24:07,173 - INFO - Директория создана: /Users/timurmajerle/Downloads/Python_Rabota_Failami/project_root/data/raw
+2024-09-04 16:24:07,173 - INFO - Директория создана: /Users/timurmajerle/Downloads/Python_Rabota_Failami/project_root/data/processed
+2024-09-04 16:24:07,173 - INFO - Директория создана: /Users/timurmajerle/Downloads/Python_Rabota_Failami/project_root/logs
+2024-09-04 16:24:07,173 - INFO - Директория создана: /Users/timurmajerle/Downloads/Python_Rabota_Failami/project_root/backups
+2024-09-04 16:24:07,173 - INFO - Директория создана: /Users/timurmajerle/Downloads/Python_Rabota_Failami/project_root/output
+2024-09-04 16:24:07,173 - INFO - Создание директорий завершено.
+2024-09-04 16:24:07,188 - INFO - Создание файлов с кодировками начато.
+2024-09-04 16:24:07,188 - INFO - Файл создан: utf8_file.txt с кодировкой utf-8
+2024-09-04 16:24:07,189 - INFO - Файл создан: iso8859_file.txt с кодировкой ISO-8859-1
+2024-09-04 16:24:07,189 - INFO - Файл создан: utf8_file_jp.txt с кодировкой utf-8
+2024-09-04 16:24:07,189 - INFO - Создание файлов с кодировками завершено.
+2024-09-04 16:24:07,189 - INFO - Преобразование файлов начато.
+2024-09-04 16:24:07,190 - INFO - Файл обработан: utf8_file_jp_processed.txt
+2024-09-04 16:24:07,191 - INFO - Файл обработан: iso8859_file_processed.txt
+2024-09-04 16:24:07,191 - INFO - Файл обработан: utf8_file_processed.txt
+2024-09-04 16:24:07,191 - INFO - Преобразование файлов завершено.
+2024-09-04 17:08:43,567 - INFO - Скрипт запущен.
+2024-09-04 17:08:43,567 - INFO - Создание директорий начато.
+2024-09-04 17:08:43,567 - INFO - Директория создана: /Users/timurmajerle/Downloads/Python_Rabota_Failami/project_root/data/raw
+2024-09-04 17:08:43,567 - INFO - Директория создана: /Users/timurmajerle/Downloads/Python_Rabota_Failami/project_root/data/processed
+2024-09-04 17:08:43,567 - INFO - Директория создана: /Users/timurmajerle/Downloads/Python_Rabota_Failami/project_root/logs
+2024-09-04 17:08:43,567 - INFO - Директория создана: /Users/timurmajerle/Downloads/Python_Rabota_Failami/project_root/backups
+2024-09-04 17:08:43,567 - INFO - Директория создана: /Users/timurmajerle/Downloads/Python_Rabota_Failami/project_root/output
+2024-09-04 17:08:43,567 - INFO - Создание директорий завершено.
+2024-09-04 17:08:43,585 - INFO - Создание файлов с кодировками начато.
+2024-09-04 17:08:43,586 - INFO - Файл создан: utf8_file.txt с кодировкой utf-8
+2024-09-04 17:08:43,586 - INFO - Файл создан: iso8859_file.txt с кодировкой ISO-8859-1
+2024-09-04 17:08:43,587 - INFO - Файл создан: utf8_file_jp.txt с кодировкой utf-8
+2024-09-04 17:08:43,587 - INFO - Создание файлов с кодировками завершено.
+2024-09-04 17:08:43,587 - INFO - Преобразование файлов начато.
+2024-09-04 17:08:43,587 - INFO - Файл обработан: utf8_file_jp_processed.txt
+2024-09-04 17:08:43,588 - INFO - Файл обработан: iso8859_file_processed.txt
+2024-09-04 17:08:43,588 - INFO - Файл обработан: utf8_file_processed.txt
+2024-09-04 17:08:43,588 - INFO - Преобразование файлов завершено.
+2024-09-04 17:15:29,196 - INFO - Скрипт запущен.
+2024-09-04 17:15:29,196 - INFO - Создание директорий начато.
+2024-09-04 17:15:29,196 - INFO - Директория создана: /Users/timurmajerle/Downloads/Python_Rabota_Failami/project_root/data/raw
+2024-09-04 17:15:29,196 - INFO - Директория создана: /Users/timurmajerle/Downloads/Python_Rabota_Failami/project_root/data/processed
+2024-09-04 17:15:29,196 - INFO - Директория создана: /Users/timurmajerle/Downloads/Python_Rabota_Failami/project_root/logs
+2024-09-04 17:15:29,196 - INFO - Директория создана: /Users/timurmajerle/Downloads/Python_Rabota_Failami/project_root/backups
+2024-09-04 17:15:29,196 - INFO - Директория создана: /Users/timurmajerle/Downloads/Python_Rabota_Failami/project_root/output
+2024-09-04 17:15:29,196 - INFO - Создание директорий завершено.
+2024-09-04 17:15:29,196 - INFO - Создание файлов с кодировками начато.
+2024-09-04 17:15:29,196 - INFO - Файл создан: utf8_file.txt с кодировкой utf-8
+2024-09-04 17:15:29,197 - INFO - Файл создан: iso8859_file.txt с кодировкой ISO-8859-1
+2024-09-04 17:15:29,197 - INFO - Файл создан: utf8_file_jp.txt с кодировкой utf-8
+2024-09-04 17:15:29,197 - INFO - Создание файлов с кодировками завершено.
+2024-09-04 17:15:29,197 - INFO - Преобразование файлов начато.
+2024-09-04 17:17:31,103 - INFO - Скрипт запущен.
+2024-09-04 17:17:31,103 - INFO - Создание директорий начато.
+2024-09-04 17:17:31,103 - INFO - Директория создана: /Users/timurmajerle/Downloads/Python_Rabota_Failami/project_root/data/raw
+2024-09-04 17:17:31,103 - INFO - Директория создана: /Users/timurmajerle/Downloads/Python_Rabota_Failami/project_root/data/processed
+2024-09-04 17:17:31,103 - INFO - Директория создана: /Users/timurmajerle/Downloads/Python_Rabota_Failami/project_root/logs
+2024-09-04 17:17:31,103 - INFO - Директория создана: /Users/timurmajerle/Downloads/Python_Rabota_Failami/project_root/backups
+2024-09-04 17:17:31,103 - INFO - Директория создана: /Users/timurmajerle/Downloads/Python_Rabota_Failami/project_root/output
+2024-09-04 17:17:31,103 - INFO - Создание директорий завершено.
+2024-09-04 17:17:31,103 - INFO - Создание файлов с кодировками начато.
+2024-09-04 17:17:31,103 - INFO - Файл создан: utf8_file.txt с кодировкой utf-8
+2024-09-04 17:17:31,104 - INFO - Файл создан: iso8859_file.txt с кодировкой ISO-8859-1
+2024-09-04 17:17:31,104 - INFO - Файл создан: utf8_file_jp.txt с кодировкой utf-8
+2024-09-04 17:17:31,104 - INFO - Создание файлов с кодировками завершено.
+2024-09-04 17:17:31,104 - INFO - Преобразование файлов начато.
+2024-09-04 17:17:31,105 - INFO - Файл обработан: utf8_file_jp_processed.txt
+2024-09-04 17:17:31,105 - INFO - Файл обработан: iso8859_file_processed.txt
+2024-09-04 17:17:31,105 - INFO - Файл обработан: utf8_file_processed.txt
+2024-09-04 17:17:31,105 - INFO - Преобразование файлов завершено.
+2024-09-04 17:17:31,105 - INFO - Создание отчёта начато.
+2024-09-04 17:17:31,106 - INFO - Создание отчёта завершено.
+2024-09-04 17:17:31,106 - INFO - Скрипт завершён. Общее время выполнения: 0.00 секунд
+2024-09-04 17:19:51,771 - INFO - Скрипт запущен.
+2024-09-04 17:19:51,771 - INFO - Создание директорий начато.
+2024-09-04 17:19:51,771 - INFO - Директория создана: /Users/timurmajerle/Downloads/Python_Rabota_Failami/project_root/data/raw
+2024-09-04 17:19:51,771 - INFO - Директория создана: /Users/timurmajerle/Downloads/Python_Rabota_Failami/project_root/data/processed
+2024-09-04 17:19:51,771 - INFO - Директория создана: /Users/timurmajerle/Downloads/Python_Rabota_Failami/project_root/logs
+2024-09-04 17:19:51,771 - INFO - Директория создана: /Users/timurmajerle/Downloads/Python_Rabota_Failami/project_root/backups
+2024-09-04 17:19:51,771 - INFO - Директория создана: /Users/timurmajerle/Downloads/Python_Rabota_Failami/project_root/output
+2024-09-04 17:19:51,771 - INFO - Создание директорий завершено.
+2024-09-04 17:19:51,771 - INFO - Создание файлов с кодировками начато.
+2024-09-04 17:19:51,772 - INFO - Файл создан: utf8_file.txt с кодировкой utf-8
+2024-09-04 17:19:51,773 - INFO - Файл создан: iso8859_file.txt с кодировкой ISO-8859-1
+2024-09-04 17:19:51,773 - INFO - Файл создан: utf8_file_jp.txt с кодировкой utf-8
+2024-09-04 17:19:51,773 - INFO - Создание файлов с кодировками завершено.
+2024-09-04 17:19:51,773 - INFO - Преобразование файлов начато.
+2024-09-04 17:19:51,773 - INFO - Файл обработан: utf8_file_jp_processed.txt
+2024-09-04 17:19:51,774 - INFO - Файл обработан: iso8859_file_processed.txt
+2024-09-04 17:19:51,774 - INFO - Файл обработан: utf8_file_processed.txt
+2024-09-04 17:19:51,774 - INFO - Преобразование файлов завершено.
+2024-09-04 17:19:51,774 - INFO - Создание отчёта начато.
+2024-09-04 17:19:51,774 - INFO - Скрипт завершён. Общее время выполнения: 2.93 миллисекунд
